@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+aiohttp
+stripe
+Flask
+python-dotenv
+gunicorn
